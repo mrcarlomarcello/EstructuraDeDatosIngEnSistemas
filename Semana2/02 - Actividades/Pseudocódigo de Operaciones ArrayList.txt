@@ -1,0 +1,13 @@
+Trabajo en equipo, entrega individual, use como base el documento Pseudocódigo ArrayList que está en Recursos de esta semana.
+
+
+
+Terminar las operaciones de la lista:
+
+inserta
+suprime
+localiza
+siguiente/anterior
+anula
+imprime_lista
+append
