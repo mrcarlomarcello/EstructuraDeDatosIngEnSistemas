@@ -1,0 +1,3 @@
+/home/shello/Documents/programacionIIIenC/Semana7/EjemplosListaSimple/cmake-build-debug/CMakeFiles/ListaSimple.dir
+/home/shello/Documents/programacionIIIenC/Semana7/EjemplosListaSimple/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shello/Documents/programacionIIIenC/Semana7/EjemplosListaSimple/cmake-build-debug/CMakeFiles/rebuild_cache.dir

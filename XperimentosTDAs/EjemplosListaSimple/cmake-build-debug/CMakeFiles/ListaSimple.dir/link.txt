@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ListaSimple.dir/main.cpp.o -o ListaSimple 
